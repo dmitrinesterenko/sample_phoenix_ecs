@@ -1,4 +1,4 @@
-# Sample Application
+# Sample Phoenix Application on Elastic Container Store
 
 To start your Phoenix app:
 
@@ -11,23 +11,8 @@ Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 Ready to run in production? Please [check our deployment guides](http://www.phoenixframework.org/docs/deployment).
 
 ## Deploy to AWS
-Install [JQ](https://stedolan.github.io/jq/) to enable JSON parsing that is used
-to get results between AWS commands.
+TODO
 
-In Debian and Ubuntu distributions
-```sh
-sudo apt-get install jq
-```
-
-Source the AWS commands
-```sh
-source ./scripts/iam/commands.sh
-```
-
-### Create
-aws_up
-### Destroy
-aws_down
 
 ## Learn more
 
