@@ -1,0 +1,9 @@
+v1.
+{<<"/home/dmitri/workspace/elixir/sample_phoenix/_build/test/lib/connection/ebin/Elixir.Connection.beam">>,
+ 'Elixir.Connection',<<"lib/connection.ex">>,
+ [erlang,'Elixir.Module','Elixir.List','Elixir.ArgumentError',
+  'Elixir.Keyword','Elixir.Kernel.Def','Elixir.Protocol','Elixir.Kernel',
+  'Elixir.Kernel.Typespec','Elixir.GenServer','Elixir.Behaviour'],
+ ['Elixir.System',error_logger,code,gen_server,'Elixir.Process',proc_lib,
+  'Elixir.Code',gen,global],
+ [],nil}.

@@ -1,0 +1,10 @@
+{
+  "repository": {
+  },
+  "name": "blog",
+  "license": "MIT",
+  "dependencies": {
+    "brunch": "^2.0.0",
+    "babel-brunch": "^6.0.0"
+  }
+}
